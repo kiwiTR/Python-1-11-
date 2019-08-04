@@ -1,0 +1,17 @@
+goals = ["bei jing","shang hai","guang zhou","paris","hong kong"]
+print(goals)
+print(sorted(goals))
+print(goals)
+print(sorted(goals,reverse=True ))
+print(goals)
+goals.reverse()
+print(goals)
+goals.reverse()
+print(goals)
+goals.sort()
+print(goals)
+goals.sort(reverse=True)
+print(goals)
+#3.9
+print("\n")
+print(len(goals))

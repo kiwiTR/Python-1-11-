@@ -1,0 +1,3 @@
+In python you can: do what you want to do
+In python you can: draw
+In python you can: do a little game 
